@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartSchedulerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+601d9bfc84e46c34bbd53bdd126450d16794656b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartSchedulerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartSchedulerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

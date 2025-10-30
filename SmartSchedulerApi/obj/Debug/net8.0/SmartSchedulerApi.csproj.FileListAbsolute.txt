@@ -31,3 +31,4 @@ C:\Users\paras\OneDrive\Desktop\pathlock3\SmartSchedulerApi\obj\Debug\net8.0\ref
 C:\Users\paras\OneDrive\Desktop\pathlock3\SmartSchedulerApi\obj\Debug\net8.0\SmartSchedulerApi.pdb
 C:\Users\paras\OneDrive\Desktop\pathlock3\SmartSchedulerApi\obj\Debug\net8.0\SmartSchedulerApi.genruntimeconfig.cache
 C:\Users\paras\OneDrive\Desktop\pathlock3\SmartSchedulerApi\obj\Debug\net8.0\ref\SmartSchedulerApi.dll
+C:\Users\paras\OneDrive\Desktop\pathlock3\SmartSchedulerApi\obj\Debug\net8.0\SmartSchedulerApi.sourcelink.json
