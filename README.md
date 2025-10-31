@@ -191,6 +191,18 @@ The backend uses a Topological Sort (Kahn’s Algorithm) approach:
 ## screenshots
 
 1. layout ui
-![Smart Scheduler UI](./screenshots/image1.png)
+<img width="637" height="421" alt="image" src="https://github.com/user-attachments/assets/1c2293c0-3fa6-42e7-8342-6c8b00c78a41" />
+
+
+2. adding task
+<img width="751" height="410" alt="image" src="https://github.com/user-attachments/assets/af1bb927-35db-42aa-ae7b-72943482f335" />
+
+
+3. recomended task order
+<img width="760" height="411" alt="image" src="https://github.com/user-attachments/assets/30ebf5d4-74df-469d-b6ec-fb436ddf67c5" />
+
+
+
+
 
 
