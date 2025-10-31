@@ -187,3 +187,10 @@ The backend uses a Topological Sort (Kahn’s Algorithm) approach:
 4. Add tasks with dependencies
 5. Click “Schedule Tasks”
 6. View the Recommended Task Order returned from backend
+
+## screenshots
+
+1. layout ui
+![Smart Scheduler UI](./screenshots/image1.png)
+
+
